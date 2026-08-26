@@ -1,0 +1,1 @@
+The deployed portfolio now includes resume-view.html as the verified, updated resume page. Use /resume-view.html for the current resume while DEVRESUME.pdf is being replaced as a binary asset.
