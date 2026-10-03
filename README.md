@@ -15,6 +15,10 @@ Personal portfolio showcasing software engineering, backend, full-stack, databas
 
 Java · C++ · JavaScript · React · Next.js · Node.js · Express · REST APIs · MySQL · PostgreSQL · Git/GitHub · CI/CD · LLMs · RAG · Embeddings
 
+## Contribution Strategy
+
+Keep the profile active through real project work: feature improvements, bug fixes, tests, documentation updates, dependency maintenance, and algorithm solutions. Automated workflows should support development quality rather than create artificial contribution activity.
+
 ## Run locally
 
 This is a static portfolio. Serve the repository with any static HTTP server or deploy it to Vercel/GitHub Pages.
